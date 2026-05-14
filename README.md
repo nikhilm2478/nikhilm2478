@@ -8,8 +8,8 @@
     I have developed autonomous symbolic retrieval frameworks using LLMs, orchestrated agentic AI workflows for real-time automation, scaled enterprise ETL pipelines, and more.
   </p>
 </div>
-<div align="center">
-  <h3>🛠️ Technical Arsenal</h3>
+<div align="left">
+  <h3> Skills </h3>
   <p>
     <b>Languages:</b> C++, Python, JavaScript, TypeScript, Java, SQL, R <br>
     <b>AI & Machine Learning:</b> PyTorch, TensorFlow, Huggingface, LangChain, DSPy, Scikit-learn <br>
