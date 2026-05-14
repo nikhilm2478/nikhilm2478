@@ -1,5 +1,4 @@
-<div align="center">
-  <h1>Hi, I'm Nikhil 👋</h1>
+<div align="left">
   <h3>Software Engineer @ Google | Datacenter Networks & AI/ML Fabrics</h3>
   <p>
     I am currently a Software Engineer on Google's Fabric Routing Velocity team. My work focuses on building software-defined routing systems and testing frameworks at an unprecedented scale to ensure zero-latency packet delivery for next-generation ML training networks.
