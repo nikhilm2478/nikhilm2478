@@ -9,7 +9,6 @@
     I have developed autonomous symbolic retrieval frameworks using LLMs, orchestrated agentic AI workflows for real-time automation, scaled enterprise ETL pipelines, and more.
   </p>
 </div>
-<br/>
 <div align="center">
   <h3>🛠️ Technical Arsenal</h3>
   <p>
