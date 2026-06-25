@@ -2,7 +2,6 @@
   <h3>Software Engineer @ Google </h3>
 </div>
 <div align="left">
-  <h3> Skills </h3>
   <p>
     <b>Languages:</b> C++, Python, JavaScript, TypeScript, Java, SQL, R <br>
     <b>AI & Machine Learning:</b> PyTorch, TensorFlow, Huggingface, LangChain, DSPy, Scikit-learn <br>
