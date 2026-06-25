@@ -1,8 +1,5 @@
 <div align="left">
   <h3>Software Engineer @ Google </h3>
-  <p>
-I am currently a Software Engineer on Google's Fabric Routing Velocity team. My work focuses on building software-defined routing systems and testing frameworks at an unprecedented scale to ensure zero-latency packet delivery for next-generation ML training networks. I thrive on solving difficult, ambiguous problems across diverse fields. I have developed autonomous symbolic retrieval frameworks using LLMs, orchestrated agentic AI workflows for real-time automation, scaled enterprise ETL pipelines, and more.
-  </p>
 </div>
 <div align="left">
   <h3> Skills </h3>
